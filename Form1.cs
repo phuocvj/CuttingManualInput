@@ -653,7 +653,7 @@ namespace CuttingManualInput
                 this.Cursor = Cursors.Default;
             }
         }
-
+        
         private void label3_DoubleClick(object sender, EventArgs e)
         {
             //string sStyle = @"<head>
